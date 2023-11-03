@@ -40,3 +40,4 @@ jspm_packages/
 
 # parcel-bundler cache (https://parceljs.org/)
 .parcel-cache
+.DS_Store
